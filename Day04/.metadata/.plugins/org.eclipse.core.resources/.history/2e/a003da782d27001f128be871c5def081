@@ -1,0 +1,5 @@
+package jspapp;
+
+public class LoginBean {
+
+}
